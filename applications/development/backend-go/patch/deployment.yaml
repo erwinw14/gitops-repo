@@ -7,4 +7,4 @@
        spec:
          containers:
            - name: backend-go
-             image: erwinw14/backend-go:latest
+             image: erwinw14/backend-go:9
